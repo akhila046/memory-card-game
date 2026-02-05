@@ -16,7 +16,7 @@ A feature-rich Memory Card Game built with React.js featuring multiple difficult
 
 ## 🚀 Live Demo
 
-[Play the Game Here](https://your-netlify-url.netlify.app) *(Update this URL after deployment)*
+[Play the Game Here]((https://memory-card-game-ba9567.netlify.app/)) 
 
 ## 📁 Project Structure
 
