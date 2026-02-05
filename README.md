@@ -15,8 +15,9 @@ A feature-rich Memory Card Game built with React.js featuring multiple difficult
 - **Winning Celebration**: Animated modal with confetti effects
 
 ## 🚀 Live Demo
+[Play the Game Here](https://memory-card-game-ba9567.netlify.app/)
 
-[Play the Game Here]((https://memory-card-game-ba9567.netlify.app/)) 
+
 
 ## 📁 Project Structure
 
